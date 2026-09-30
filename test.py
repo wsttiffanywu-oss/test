@@ -1,3 +1,3 @@
 def main():
-    print("hello world")
+    print("hello")
     print("bye")
